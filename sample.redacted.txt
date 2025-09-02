@@ -1,0 +1,3 @@
+This is a demo document.
+Contact [REDACTED:PERSON] at [REDACTED:EMAIL_ADDRESS] or call +1-202-555-0147.
+My Aadhaar number might look like [REDACTED:IN_AADHAAR] (but this is fake!).
